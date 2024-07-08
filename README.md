@@ -5,4 +5,5 @@ IF you want to make the case build that I designed then you will need the model 
 If you want the dock for your psp to both charge it and put its display to an external monitor you will need an OEM PSP video out cable, and an OEM power cable. (if you want those features) 
 The three files are the ones labeled SwitchStation Portable. (credit to Euro234 on reddit for the name) 
 Print them with supports It won't take much but the hinge is printed into the build, and needs the base support for it to print right. I print with a .4mm nozzle, and a 20% infill, but use whatever settings you want if you are printing. 
+The holes have been adjusted for m3 screws I wouldnt use much longer the 6mm mine are 5mm
 ![mount ](https://github.com/Shtonksareup/PSP-bluetooth-STL/assets/170907656/83b5c095-1181-421f-a340-11b18d11ca62)
