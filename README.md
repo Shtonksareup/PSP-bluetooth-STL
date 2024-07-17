@@ -1,4 +1,4 @@
-[Link to my build video](https://www.youtube.com/watch?v=i-hV2Kf_kdc&t=172s)
+[PSP Blue Tooth Controller Build Guide](https://www.youtube.com/watch?v=i-hV2Kf_kdc&t=172s)
 
 [Build Guide for Play Station Placeable](https://youtu.be/1SqOVhhqsD0)
 
