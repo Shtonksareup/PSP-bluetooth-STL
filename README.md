@@ -6,7 +6,7 @@
 
 There are a few files here. If you want to make the existing external PSP build. Then you will want the fixed default mount. ![default mount](https://github.com/Shtonksareup/PSP-bluetooth-STL/assets/170907656/5e019699-45c1-47d2-a63c-89357aa5c94c)
 
-The NEW BESTEST case is here. I finally finished the shell design that lets you use the UMD drive and bluetooth at the same time. If you want to print that the files have all been added look for PS Placeable and make sure you get all of them. Each part is needed, build video should be up tomorrow.
+The NEW BESTEST case is here. I finally finished the shell design that lets you use the UMD drive and bluetooth at the same time. If you want to print that the files have all been added in the Play Station Placeable folder and make sure you get all of them. Each part is needed.
 ![IMG_0466](https://github.com/user-attachments/assets/d42a6ca8-e764-4653-9733-6061eb183ebf)
 
 This is the old case build that I designed this is best if you plan to only use the sd card for games or if you only have the motherboard and video out parts. You will need the model X base and model X top. ![psp shell](https://github.com/Shtonksareup/PSP-bluetooth-STL/assets/170907656/e811c84e-9ad5-45bf-a1be-46cd5722404b)
