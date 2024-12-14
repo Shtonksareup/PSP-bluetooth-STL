@@ -1,3 +1,6 @@
+Hello everyone!! This page has the files for the V1 of the BT mod. The newer version that has way more fetures is avlible on the [website](https://www.retromodworks.com/product-page/psp-bt-mod-kit). The new STL files are on sale there with all the extra parts you would need to assemble this on your own. Thank you for all your support!!! 
+
+
 [PSP Blue Tooth Controller Build Guide](https://www.youtube.com/watch?v=i-hV2Kf_kdc&t=172s)
 
 [Build Guide for Play Station Placeable](https://youtu.be/1SqOVhhqsD0)
