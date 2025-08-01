@@ -7,7 +7,7 @@ Hello everyone!! This page is being updated to match the V2 of the BT mod. The n
 
 [Stephens Github link](https://github.com/ste2425/PSP-Bluetooth) - NEWEST BT BOARD FILES V2
 
-There are a few files here. If you want to make the existing external PSP build. Then you will want the fixed default mount. ![New motherboard](https://github.com/user-attachments/assets/4ed684d9-35b7-4ba8-885c-6c641876b9ae)
+There are a few files here. If you want to make the existing external PSP build. Then you will want the "Play Station Placeable ESP32 on Ste2425 hardware page". ![New motherboard](https://github.com/user-attachments/assets/4ed684d9-35b7-4ba8-885c-6c641876b9ae)
 
 
 
